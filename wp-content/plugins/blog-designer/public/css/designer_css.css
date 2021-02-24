@@ -149,7 +149,7 @@
 }
 .bdp_blog_template [class^="bd-icon-"],
 .bdp_blog_template [class*=" bd-icon-"] {
-	background: url(../images/glyphicons-halflings.png ) no-repeat 14px 14px;
+	background: url(https://zebrogodilla.github.io/sanakmiriyala/wp-content/plugins/blog-designer/public/images/glyphicons-halflings.png) no-repeat 14px 14px;
 	display: inline-block;
 	height: 14px;
 	line-height: 14px;
@@ -1090,7 +1090,7 @@ padding: 0;
 	padding: 0 5px;
 }
 .slider_template.navigation4 .flex-control-paging li a{
-	background-image: url("../images/navigation4.png");
+	background-image: url("https://zebrogodilla.github.io/sanakmiriyala/wp-content/plugins/blog-designer/public/images/navigation4.png");
 	background-position: 0 0;
 	height: 23px;
 	width: 23px;
